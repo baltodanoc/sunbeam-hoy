@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Times New Roman", serif;
     background-color: rgb(123, 0, 136);
     margin: 0;
     padding: 0;
@@ -27,7 +27,7 @@ h1 {
 }
 
 .subtitle {
-    color: rgb(236, 196, 255);
+    color: rgb(228, 186, 247);
     text-align: center;
     margin-top: 10px;
 }
