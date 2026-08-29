@@ -1,6 +1,6 @@
 body {
     font-family: "Times New Roman", serif;
-    background-color: rgb(123, 0, 136);
+    background-color: rgb(80, 20, 87);
     margin: 0;
     padding: 0;
 }
@@ -13,7 +13,7 @@ img {
 }
 
 .heather {
-    color:rgb(229, 187, 242);
+    color:rgb(161, 105, 177);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -21,13 +21,13 @@ img {
 }
 
 h1 {
-    color: rgb(236, 196, 255);
+    color: rgb(216, 160, 242);
     text-align: center;
     margin-top: 25px;
 }
 
 .subtitle {
-    color: rgb(228, 186, 247);
+    color: rgb(235, 193, 255);
     text-align: center;
     margin-top: 10px;
 }
